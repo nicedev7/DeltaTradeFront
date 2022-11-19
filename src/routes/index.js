@@ -40,7 +40,7 @@ export default function Router() {
       path: '/',
       element: <DashboardLayout />,
       children: [
-        { element: <Navigate to="PPT-ETH" replace /> },
+        { path: '', element: <Navigate to="PPT-ETH" replace /> },
         { path: 'PPT-ETH', element: <MainPage /> },
       ]
     },
