@@ -1,5 +1,5 @@
 {
-  "name": "@minimal/minimal-kit-react",
+  "name": "delta-exchange-react",
   "author": "minimals.cc",
   "version": "2.6.0",
   "private": true,
@@ -138,7 +138,7 @@
     "eslint": "^7.32.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-config-react-app": "^6.0.0",
+    "eslint-config-react-app": "^7.0.1",
     "eslint-plugin-flowtype": "^6.0.1",
     "eslint-plugin-import": "^2.24.2",
     "eslint-plugin-jsx-a11y": "^6.4.1",
